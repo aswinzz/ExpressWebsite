@@ -1,6 +1,6 @@
 # Details
 
-A Webpage Made using Express.This is a bootstrap theme which is made Express.It is just a template,Not Made By me :wink: !!!
+A Webpage Made using Express.This is a bootstrap theme which is made Using Express.It is just a template,Not Made By me :wink: !!!
 
 # Installation
 
